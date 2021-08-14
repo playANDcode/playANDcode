@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @playANDcode
 - 👀 I’m interested in Math, Space and Tech. 
-- 🌱 I’m currently learning Python and Git
+- 🌱 I’m currently learning CS50.
 - 💞️ I’m looking forward on learning together
 - 📫 How to reach me: whatbringsyouhere@protonmail.com
 
